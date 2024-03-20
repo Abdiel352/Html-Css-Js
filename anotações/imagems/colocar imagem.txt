@@ -1,0 +1,2 @@
+<img src="Caminho da Imagem" alt="Texto da imagem">
+OBS: o caminho pode ser trocado por um link

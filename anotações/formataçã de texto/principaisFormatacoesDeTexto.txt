@@ -1,0 +1,13 @@
+TAG mark marca o texto(marca texto)
+
+TAG style e seletores
+
+TAG small deixa o texto pequeno e n é obsoleta apesar da TAG big ser
+
+TAG del coloca um traço durante todo o texto, avisando que é um texto que deve ser desconsiderado, mas você consegue ler
+
+TAG ins sublinha o texto
+
+TAG sup sobreesccreve um texto, tipo uma elevação da matemática
+
+TAG sub subscreve um texto, tipo em quimica 

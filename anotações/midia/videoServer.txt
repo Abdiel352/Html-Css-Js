@@ -1,0 +1,6 @@
+TAG video, tem parametros como controls,assim como aúdio, e é possivel usar width e heigth para decidir como ele
+aparece na tela.
+	E assim como audio, é possivel criar sources.
+	E passando o parametro poster, é possivel colocar uma tumb para o video.
+
+OBS: Hospedagem propeia é extremamente CARA, pois aumenta o trafego de banda do server.

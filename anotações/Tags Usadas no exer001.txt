@@ -1,0 +1,3 @@
+<head> Cuida de toda a parte de configuração da página</head>
+<body>Estrura da página em si, o que vai aparecer, acontecer na página</body>
+<hr>linha horizontal

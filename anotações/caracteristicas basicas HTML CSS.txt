@@ -1,0 +1,11 @@
+HTML:
+é focado em conteúdo
+Não tem varíaveis e sim tags, para abrir <> e </>para fechar na grande maioria
+<p>PARAGRAFO</p>
+
+CSS: é focado em design
+dentro de uma tag style 
+EX:
+h1(<--é um seletor){
+
+}

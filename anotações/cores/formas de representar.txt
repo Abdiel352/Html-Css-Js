@@ -1,0 +1,4 @@
+#000000(HExaDecimal)
+rgb(255, 255, 255)
+hsl
+nome

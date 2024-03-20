@@ -1,0 +1,6 @@
+Colocar símbolos especiais: & e o nome do símbolo; EX: &gamma
+
+Colocar emoji: &#x e o código hx do emoji; EX: &#x&#x1F480;
+
+
+OBS: emojipedia.org, site com uma caralhada de emojis.

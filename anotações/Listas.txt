@@ -1,0 +1,13 @@
+TAG ol(ordened list) cria uma lista ordenada(numerada), elatem como parâmetros 
+type(define que tipo de ordenação vai usar; números(1), letras(A ou a),romanos(I ou i)) e 
+start(de onde vai começar)
+
+
+TAG ul(unorned list) cria uma lista onde a ordem n importa, ela também tem o type(disc, circle, square)
+
+
+OBS: As tags UL e OL tem o li(list item) e cada item deve ter seu próprio li
+
+
+Tag dl cria uma lista de definição; Ela tem as TAGS dt: O termo
+e a TAG dd: a definição

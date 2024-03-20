@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagem Flexivel</title>
+    <link rel="shortcut icon" href="img/sung-icon.jpg">
+</head>
+<body>
+    <h1>Imagem Flexível</h1>
+    <p>
+        Esse Sung Jin-Woon, tente mudar o tamanho da janela para ver de diferentes formas. &#x1F92D &#x1F92D
+    </p>
+    <picture>
+        <source media="(max-width:525px)" srcset="img/sung-300.png" type="image/png">
+        <source media="(max-width:725px)" srcset="img/sung-500.png" type="image/png">
+        <source media="(max-width:1025px )" srcset="img/sung-700.jpg" type="image/jpeg">
+        <img src="img/sung-1000.png" alt="Sung Jin-Woon">
+    </picture>
+</body>
+</html>

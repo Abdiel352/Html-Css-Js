@@ -1,0 +1,6 @@
+TAG a tbm é usada, as únicas diferenças são a forma do caminho e o valores de target="_self" e rel="next ou prev";
+
+OBS: caso queira voltar/acessar um arquivo que está em uma página anterior, usa-se ../
+
+
+Caso o link a ser usado n for confiavel ou patrocinado, recomenda-se usar o rel="nofollow", serve para links externos 

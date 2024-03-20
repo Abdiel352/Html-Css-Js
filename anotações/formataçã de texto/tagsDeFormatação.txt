@@ -1,0 +1,12 @@
+TAG code é monoespaçada(mesmo espaço pra todas as letras), o que a torna boa para ler códigos por exemplo
+
+TAG pre considera espaços e quebras de linhas, sendo boa para coisas como identação
+
+TAG q usada para citações simples
+
+TAG blockquote é uma citação em bloco, aparecendo um pouco deslocado. 
+O parametro cite pode ser criado e se deve colocar nele o endereço da pagina do autor ou algo do gênero
+
+TAG abbr é usada em abreviações, quando o usuário passar/manter o mouse na abreviação, aparece o significado
+
+TAG bdo define de qual direção vai ser escrita a frase, usada para inverter(deireita para esquerda)

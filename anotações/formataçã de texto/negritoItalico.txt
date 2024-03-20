@@ -1,0 +1,6 @@
+TAG <b> coloca o texto entre ela em negrito, que é uma TAG não semântica, apenas formato
+TAG <strong> támbem coloca o texto em negrito mas tem significado e formato
+TAG <i> coloca o texto em itálico mas não é semântica
+TAG<em> coloca o texto em itálico e é semântica
+
+OBS: Recomenda-se usar strog e em, pois html precisa ter sentido(semântica)

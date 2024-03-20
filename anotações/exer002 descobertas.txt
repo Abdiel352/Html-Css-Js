@@ -1,0 +1,1 @@
+<br> é possivel usar dentro de outras tags, como a tag <p></p>

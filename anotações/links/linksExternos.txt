@@ -1,0 +1,4 @@
+TAG a é usada para links externos, ela tem o parametro href que é obrigátorio;
+ela tbm tem outros parâmetros n obrigatórios como:
+	target="_blank" rel="external"
+		que abrem o link em outra aba do navegador, ao invès de sobrepor; vale lembrar q eles podem ter outros valores

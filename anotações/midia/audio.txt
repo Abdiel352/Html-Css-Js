@@ -1,0 +1,2 @@
+TAG audio é usada tendo como parametro o controls para poder iniciar e pausar a música,com src dentro da TAG(dentro de <>), 
+mas se não quiser, pode criar sources fora.

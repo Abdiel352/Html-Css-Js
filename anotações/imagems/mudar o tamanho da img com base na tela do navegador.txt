@@ -1,0 +1,5 @@
+tag picture, ela permite criar vários sources
+
+
+TAG source, tem vários parametros, mas nesse caso, usa-se media type, ele permite que caso a imagem padrão seja maior do
+que a tela do navegador, seja mostrado uma imagem menor.(no media-type, imagens)

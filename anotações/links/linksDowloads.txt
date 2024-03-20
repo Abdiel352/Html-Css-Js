@@ -1,0 +1,3 @@
+tbm usa TAG a com os parâmetros download(nome do arquivo) e type(tipo de aplicação) dependendo só o download
+
+aparentemente n funciona em pdf

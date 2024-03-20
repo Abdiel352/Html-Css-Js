@@ -1,0 +1,7 @@
+colocar style como parâmetro.EX:
+
+<body style="background-color:blue; font-family:Arial,HElvetica, sans-serif">
+	Perceba que quando usado como parâmetro,
+	ele só funcionara para aquela tag, te forçando a fazer isso para cada TAG. Perceba também que voce pode c0olocar
+	vários valores para diferentes coisas, desde que estejam separados por ;
+</body>

@@ -1,0 +1,3 @@
+background-image: linear-gradient(#90f571,#90ca7f);
+se quiser mudar a direção do gradiente, basta colocar to left por exemplo para a esquerda ser a segunda a cor,
+antes do código das cores

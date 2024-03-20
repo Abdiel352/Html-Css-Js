@@ -1,0 +1,3 @@
+Para coloca videos sem ser em seu server, hospede ele em outro lugar, como por exemplo o youtube, que uma hospedagem
+gratuiuta.
+Em sites de hospedagem, basta clicar em compartilhar, e depois em incorporar
