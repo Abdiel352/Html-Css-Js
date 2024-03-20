@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+</head>
+<body>
+    <h1>Usando links</h1>
+    <h2>Links Externos</h2>
+    <p>Esse link leva ao <a href="https://github.com/Abdiel352" target="_blank" rel="external">meu github</a>, repare que esse link abre a página em outra aba do navegador, diferente deste <a href="https://www.youtube.com/channel/UCFCIcRwS1YcxwgmTCOcpzqg">meu youtube</a>, isso ocorre por causa do uso das tags target e rel. <br>Quando se está lidando com links externos rrecomenda-se usá-los com os parametros target="_blank" rel="external".</p>
+    <h2>Links internos</h2>
+    <p>Para acessar a <a href="pag2.html" target="_self" rel="next">pag2</a>, basta clicar no link.</p>
+    <br>
+    <p>Caso queira abrir uma página cujo arquivo está dentro de uma pasta que está no mesmo lugar do arquivo, se deve colocar o nome da pasta e o nome do arquivo. <br>
+    Dessa forma: <a href="exem/pag3.html" target="_self" rel="next">exem/pag3</a></p>
+    <h2>Liks para Dowloads</h2>
+    <script>const a = document.createElement('a')
+        a.href = 'livro/Alunos Participantes.pdf' 
+        a.download = 'livro/Alunos Participantes.pdf'
+        
+        </script>
+    <ul>
+        <li><a href="livro/Conversation.pdf">Lista Alunos</a></li>
+        <li><a href="livro/Conversation.pdf" download="Alunos Participantes.docx">aaa</a></li>
+
+    </ul>
+</body>
+</html>

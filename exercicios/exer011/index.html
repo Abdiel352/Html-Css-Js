@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Troca de Imagens em Diferentes Telas</title>
+</head>
+<body>
+    <h1>Imagem Dinâmica</h1>
+    <p>
+        Tente acessar em dispositivos de tamanhos diferentes ou simplesmente diminua a tela do navegador
+    </p>
+    <picture>
+        <source media="(max-width:725px )" srcset="img/img-p.png" type="image/png">
+        <source media="(max-width:1025px )" srcset="img/img-m.png" type="image/png">
+        <img src="img/img-g.png" alt="Imagem Flexivel">
+    </picture>
+
+    <h2>Reproduzindo aúdios</h2>
+    <p>
+        Vamos aprender a reproduzir aúdios
+    </p>
+    <audio preload="metadata" controls>
+        <source src="midia/Guess I'll Never Know - TrackTribe.mp3" type="audio/mpeg">
+    </audio>
+</body>
+</html>
