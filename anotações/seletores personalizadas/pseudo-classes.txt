@@ -1,0 +1,29 @@
+pseudo classe => : 
+
+Ela indica o estado de algo, como por exemplo quando passar o mouse;
+EX: 
+	div:hover{
+            background-color: rgb(109, 255, 96);
+        }
+nesse exemplo, quando passar o mouse na div, o fundo muda pra essa cor.
+
+
+
+Simbolo > significa filho, usado quando se quer fazer configurações de uma TAG que está dentro de outra TAG
+EX:
+
+	 div:hover{
+            color: rgb(77, 153, 128);
+        }
+        div > p{
+            display: none;
+        }
+        div:hover > p{
+            display: block;
+            width: 80em;
+        }
+        div{
+            width: 150px;
+        }
+
+Nesse exemplo, dentro da div tem p escondido, que aparece quando o mouse passa na div;

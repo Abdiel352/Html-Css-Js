@@ -1,0 +1,9 @@
+Colocar que a deve herdar essa classe e configura-la em CSS.
+EX:
+
+	<h1 class="destaque">Aprendendo CSS</h1>
+	
+	.destaque{
+	    background-color: rgba(127, 139, 139, 0.74);
+	    color: rgb(40, 65, 65); ;
+	}

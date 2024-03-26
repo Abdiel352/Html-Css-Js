@@ -1,0 +1,15 @@
+font-weight: peso da fonte;(fonte mais leve até negrito)--> bolder
+
+font-style: se quiser em itálico; --> italic
+
+text-decoration: se quiser sublinhado; --> underline
+
+
+
+Também tem a possibilidade de fazer em uma única linha se seguir a seguinte ordem:
+
+	font-style-> font-weight-> font-size-> font-family;
+	
+	que na declaração ficaria: 
+		
+		font: italic bolder 3em "Arial"

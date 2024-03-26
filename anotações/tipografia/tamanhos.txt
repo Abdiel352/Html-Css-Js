@@ -1,0 +1,15 @@
+formas de "declarar" tamanhos
+	Medidas absolutas:
+	
+		cm, mm, in(polegadas),px(recomendado pela w3c),pt(pontos),pc
+
+	Medidas relativas:
+
+		em(recomendado pela w3c), ex, rem, vw, vh, %
+
+	geralmente 16px = em;
+
+
+Declarando:
+
+	 font-size: 1.1em;

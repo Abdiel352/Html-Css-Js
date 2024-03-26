@@ -1,0 +1,14 @@
+margin, padding,--> sentido do relógio ou só um valor pra que todos sejam iguais, ou 2 valores, o 1º para cime e baixo,
+e o 2º para direita e esquerda. ou fazer um a um.
+
+EX:
+	margin: 0px auto 70px auto;--> auto na direita e esquerda para ficar no centro da tela;
+	padding: 10px 20px;
+
+
+border, outline--> tamanho, tipo, cor.
+EX:
+	border:20px solid blue;
+	outline: 20px dashed gray;
+
+Tamanho da caixa--> width e height

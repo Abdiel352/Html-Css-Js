@@ -1,0 +1,11 @@
+:: representa pseudo elementos, ele coloca conteúdo em tudo.
+EX:
+        a::after{
+            content: "[tatu]";
+            color:  rgb(134, 48, 48);
+        }
+        a::before{
+            content: "[fala tu]";
+            color:  rgb(134, 48, 48);;
+        }
+nesse exemplo, antes e depois do link vai aparecer [fala tu] link[tatu];

@@ -1,0 +1,4 @@
+ @font-face {
+            font-family: "airT";
+            src: url(fonts/airstrike/airstrike3d.ttf);
+        }

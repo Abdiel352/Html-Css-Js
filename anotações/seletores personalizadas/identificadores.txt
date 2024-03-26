@@ -1,0 +1,8 @@
+Tudo que:
+
+	em HTML é id 	= # em CSS(um por documento / página)
+	em HTML é class = . em CSS(multiplos)
+	
+		: 	= pseudo-class
+		:: 	= pseudo-element
+		> 	= children(filho(a))
