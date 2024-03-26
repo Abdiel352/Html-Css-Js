@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(204, 226, 226, 0.74);
+}
+h1{
+    color: rgb(58, 94, 94); ;
+}
+h2{
+    color: rgb(74, 94, 94);;
+}
+h1#main{
+
+    background-color: rgb(56, 77, 77);
+    color: white;
+    text-align: center;
+}
+
+.destaque{
+    background-color: rgba(127, 139, 139, 0.74);
+    color: rgb(40, 65, 65); ;
+}
+

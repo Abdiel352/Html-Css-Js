@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hover</title>
+    <style>
+        div:hover{
+            color: rgb(77, 153, 128);
+        }
+        div > p{
+            display: none;
+        }
+        div:hover > p{
+            display: block;
+            width: 80em;
+        }
+        div{
+            width: 130px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Texto Escondido</h1>
+    <p>Passe o mouse no texto abaixo e veja o texto escondido.</p>
+    <div>
+        Passe o mouse aqui
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa facere sunt mollitia officiis, animi blanditiis consectetur quia ut, pariatur delectus nemo alias in architecto ea earum adipisci ratione dicta. Quo.
+        </p>
+    </div>
+    <p>Legal né?</p>
+</body>
+</html>
