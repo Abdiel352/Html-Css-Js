@@ -1,0 +1,1 @@
+ box-shadow: 8px(eixo x) 8px(eixo y) 10px(quanto a sombra se espala) 2px(alcance da sombra) rgba(0, 0, 0, 0.274);

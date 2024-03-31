@@ -1,0 +1,27 @@
+<body>
+    <header>(cabeçalho)
+        <h1>Olha eu</h1>
+        <nav>(navegação)
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+        </nav>
+    </header>
+    <main>(principal)
+        <section id="noticias">(seção)
+            <article>(artigo)
+                <h2>Brasil</h2>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque enim animi, odit excepturi doloremque sint doloribus illo temporibus sunt quasi ducimus perspiciatis, consequuntur voluptatum quibusdam, architecto suscipit? Repudiandae, amet quas.
+                </p>
+                <aside>(Quem escreveu)
+                    <p>Escrito por mim ué.</p>
+                </aside>
+            </article>
+        </section>
+    </main>
+    <footer>(rodapé)
+        <p>Quem fez foi eu carai</p>
+    </footer>
+</body>

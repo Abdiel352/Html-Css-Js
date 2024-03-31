@@ -1,0 +1,7 @@
+h1{
+	
+	border: 12px solid transparent;
+	padding: 5px;
+	border-image: url(nomedoarquivo.extensãodoarquivo) 27(quantidade de vezes que img aparece) repeat(para repetir) ou 
+												   trashed(para arrastar);
+}

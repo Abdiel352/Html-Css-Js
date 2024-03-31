@@ -1,0 +1,9 @@
+div#bola{
+            margin: 20px 0px 20px 5px;
+            height: 100px;
+            width: 100px;
+            background-color: aquamarine;
+            border-radius: 100%;
+        }
+
+<div id="bola"></div>

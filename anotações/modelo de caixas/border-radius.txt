@@ -1,0 +1,4 @@
+ border-radius: 15px 0px;
+
+OBS: Mesmo padrão, o primeiro parâmetro serve para esquerda em cime direita embaixo, e o segundo para direita em cima e 
+esquerda embaixo.
